@@ -1,0 +1,12 @@
+.hover-effect:hover {
+    background-color: #0056b3 !important;
+    /* Darker shade of primary */
+    color: #fff !important;
+    transform: scale(1.05);
+    transition: all 0.3s ease;
+}
+
+.hover-effect {
+    transition: all 0.3s ease;
+}
+
